@@ -44,7 +44,7 @@
 </article>
 <article class="columns">
   <h2 class="column col-12">How To</h2>
-  {{ range sort (where .Site.RegularPages "Section" "faq") "Params.order" }}
+  {{ range sort (where .Site.RegularPages "Section" "howto") "Params.order" }}
       <div class="column col-4 col-xs-12"><p class="question">{{ .Title }}</p></div>
       <div class="column col-8 col-xs-12">
         {{ .Content }}

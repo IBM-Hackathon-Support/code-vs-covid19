@@ -2,7 +2,7 @@
 title: "Create a free IBM Cloud Account"
 date: 2020-03-27T07:10:52+01:00
 order: 0
-draft: true
+draft: false
 ---
 
 Create a free IBM Cloud Account to get access to runtimes and IBM Watson services:
