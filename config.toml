@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hackathon Support"
+theme = "ibm-plexus-simple"
+
+[params]
+  AuthorName = "Michael Wellner"
+  GitHubUser = "cokeSchlumpf"
+  Brand = "IBM"
+  Subtitle = "Resources vor #CodeVsCovid19 Hackathon"
+
+[blackfriday] 
+    extensions = ["hardLineBreak"]
