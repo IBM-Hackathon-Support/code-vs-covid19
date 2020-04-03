@@ -7,7 +7,7 @@ theme = "ibm-plexus-simple"
   AuthorName = "Michael Wellner"
   GitHubUser = "cokeSchlumpf"
   Brand = "IBM"
-  Subtitle = "Resources for #CodeVsCovid19 Hackathon"
+  Subtitle = "Resources for #VersusVirus Hackathon"
 
 [blackfriday] 
     extensions = ["hardLineBreak"]
